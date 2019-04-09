@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/favicon.ico' | relative_url }}">
+	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+{% seo %}
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="{{ '/' | absolute_url }}">
+          <h1>{{ page.title | default: site.github.repository_name }}</h1>
+        </a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          {{ content }}
+        </section>
+
+        <aside id="sidebar">
+
+		<h1><img src="assets/images/avatar.jpg" style="width:250px;border-radius:30px" /></h1>
+
+		<h1>Zihao He</h1>
+
+		<h3>Master Student in CS at CMU (MSCS Program)</h3>
+
+		<p><a href="https://github.com/hzh0512" target="_blank"><img src="assets/images/github.svg" style="width:32px;margin:3px"/></a>
+		   <a href="https://linkedin.com/in/zihao-he" target="_blank"><img src="assets/images/linkedin.svg" style="width:32px;margin:3px"/></a>
+		   <a href="mailto:zihaohe@cmu.edu"><img src="assets/images/email.svg" style="width:32px;margin:3px"" /></a></p>
+
+        </aside>
+      </div>
+    </div>
+
+  </body>
+</html>

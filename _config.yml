@@ -1,0 +1,6 @@
+title: Zihao He
+theme: jekyll-theme-architect
+collections:
+  p:
+    output:         true
+    permalink:      /:collection/:path
