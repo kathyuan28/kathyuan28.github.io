@@ -1,5 +1,5 @@
 title: Xuetong Yuan
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 collections:
   p:
     output:         true
