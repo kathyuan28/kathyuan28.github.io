@@ -4,3 +4,6 @@ collections:
   p:
     output:         true
     permalink:      /:collection/:path
+
+github:
+  cv_url: https://drive.google.com/file/d/1Z80S9Rq3j82kO6izhOW6Icm_-izFSfCw/view?usp=sharing
