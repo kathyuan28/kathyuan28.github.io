@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Xuetong Yuan
+title: Research
 ---
-# [Research](p/research)
+[Research](p/research)
 
 **Current Projects**
 =======
