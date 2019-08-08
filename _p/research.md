@@ -2,7 +2,7 @@
 layout: default
 title: Research
 ---
-[Research](p/research)
+## [Research](p/research.md)
 
 **Current Projects**
 =======
