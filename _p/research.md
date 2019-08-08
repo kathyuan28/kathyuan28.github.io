@@ -2,7 +2,7 @@
 layout: default
 title: Research
 ---
-## [Research](/p/research)
+## [Research](https://kathyuan28.github.io/p/research)
 
 **Current Projects**
 =======
