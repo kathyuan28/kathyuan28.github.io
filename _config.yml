@@ -6,7 +6,9 @@ google_analytics:
 theme: jekyll-theme-minimal
 
 github:
-  cv_url: https://drive.google.com/file/d/1Z80S9Rq3j82kO6izhOW6Icm_-izFSfCw/view?usp=sharing
+  cv_url: https://drive.google.com/open?id=11vbPUYCgCBjsuuFDrVfmgQtHG63iVLvS
+  slides_url: https://drive.google.com/open?id=1FVLrZuB1UWb8gKZsTLl51EWy0KZ9eT0W
+  paper_url: https://drive.google.com/open?id=12AaoNRO0YGCrUDs9sZZL8-J7HzxQ6R5k
 
 collections:
   p:

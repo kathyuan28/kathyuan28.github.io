@@ -4,15 +4,21 @@ title: Research
 ---
 ## [Research](https://kathyuan28.github.io/p/research)
 
-**Current Projects**
+**Papers**
 =======
 
-## Mandarin discourse particle "-ba"
+## [A discourse model for Mandarin *ba*-interrogatives]({{site.github.paper_url}}).
 
-“-ba” can be attached to all kinds of clause types in Mandarin: declaratives, interrogatives, and imperatives. I am looking at the behaviors of “-ba”, how it interacts with its prejacent, and its interactions with intonation.
+ Xuetong Yuan. To appear. *Proceedings of the 12th Generative Linguistics in the Old World in Asia and the 21st Seoul International Conference on Generative Grammar*(GLOW in Asia XII & SICOGG XXI).
 
 ---
 
-## Mandarin reportative evidential "shuo"
+**Talks and posters**
+=======
 
-“shuo” is a saying verb in Mandarin. I argue that shuo is a reportative evidential, and it can co-occur with other inferential modals and evidentials.
+## [A discourse model for Mandarin *ba*-interrogatives]({{site.github.slides_url}}).
+Talk given at SuB 24, Osnabrück, Germany. 
+
+## A discourse model for Mandarin *ba*-interrogatives].
+Poster given at GLOW in Asia XII & SICOGG XXI, Seoul, Korea.
+
