@@ -17,4 +17,4 @@ I am a PhD student in linguistics at University of Connecticut. I primarily work
 
 ## Mandarin reportative evidential "shuo"
 
-“shuo” is a saying verb in Mandarin. I argue that shuo is a reportative evidential, and it can co-occur with other inferential modals and evidentials.
+“shuo” is a saying verb in Mandarin. It can appear either sentence-initially or sentence-finally. I argue that shuo is a reportative evidential. I am particularly interested in its difference meaning when it appears in difference positions, and its behaviors when it co-occurs with other inferential modals and evidentials in Mandarin.
