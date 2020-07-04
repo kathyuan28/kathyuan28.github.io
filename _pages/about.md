@@ -7,9 +7,9 @@ featured_image: /images/avatar.jpg
 
 ---
 
-**A discourse model for Mandarin *ba*-interrogatives** \[[paper](https://drive.google.com/open?id=12AaoNRO0YGCrUDs9sZZL8-J7HzxQ6R5k)\].
+**Challenging the presuppositions of questions: the case of *ba*-interrogatives** \[[paper](https://drive.google.com/file/d/1DyUrmwdEBrLDq2DmoB2NWjBD32e-UXKQ/view?usp=sharing)\].
 
- Xuetong Yuan. To appear. *Proceedings of the 12th Generative Linguistics in the Old World in Asia and the 21st Seoul International Conference on Generative Grammar* (GLOW in Asia XII & SICOGG XXI).
+Xuetong Yuan. To appear. In *Proceedings of Sinn und Bedeutung 24*.
 
 ### Talks and posters
 ---
