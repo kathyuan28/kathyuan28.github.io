@@ -32,6 +32,6 @@ Talk to be given at NACCL 32, Storrs, CT.[virtual]
 
 Talk given at SuB 24, Osnabrück, Germany.
 
-**A discourse model for Mandarin *ba*-interrogatives**.
+**A discourse model for Mandarin *ba*-interrogatives**. \[[paper](https://drive.google.com/file/d/12AaoNRO0YGCrUDs9sZZL8-J7HzxQ6R5k/view?usp=sharing)\].
 
 Poster given at GLOW in Asia XII & SICOGG XXI, Seoul, Korea.
