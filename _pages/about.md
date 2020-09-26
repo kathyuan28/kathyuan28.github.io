@@ -20,11 +20,11 @@ Xuetong Yuan. To appear. In *Proceedings of Sinn und Bedeutung 24*.
 ##### 2020
 **Extracting commitment: the case of Mandarin rising *ba*-declaratives**.
 
-Talk given at SuB 25, London, UK. \[[slides](https://drive.google.com/file/d/1LXiZ0ZYDvpkDniGHrL2kgLUawz5rWlDt/view?usp=sharing)\].
+Talk given at SuB 25, London, UK. [slides distributed upon requests].
 
 **On matrix *shuo* in Mandarin**. (with Hiroaki Saito).
 
-Talk given at NACCL 32, Storrs, CT. \[[slides](https://drive.google.com/file/d/1Q1JEYGTZ9Ol-NhqTn_zeJRZUOfYBLcR3/view?usp=sharing)\].
+Talk given at NACCL 32, Storrs, CT. [slides distributed upon requests].
 
 ##### 2019
 
