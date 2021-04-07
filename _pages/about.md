@@ -7,13 +7,13 @@ featured_image: /images/avatar.jpg
 
 **On matrix *shuo* in Mandarin**.
 
-Xuetong Yuan and Hiroaki Saito. In prep. In Proceedings of NACCL 32.
+Xuetong Yuan and Hiroaki Saito. To appear. In Proceedings of NACCL 32.
 
 
 
-**Attributing commitments: the case of Mandarin rising *ba*-declaratives**.
+**Extracting commitments: the case of Mandarin rising *ba*-declaratives**.
 
-Xuetong Yuan. In prep. In Proceedings of Sinn und Bedeutung 25.
+Xuetong Yuan. To appear. In Proceedings of Sinn und Bedeutung 25.
 
 
 **Challenging the presuppositions of questions: the case of *ba*-interrogatives**. \[[paper](https://drive.google.com/file/d/1DyUrmwdEBrLDq2DmoB2NWjBD32e-UXKQ/view?usp=sharing)\].
