@@ -24,6 +24,10 @@ Xuetong Yuan. 2020. In Proceedings of Sinn und Bedeutung 24.
 
 #### Talks and posters
 
+**Updating unexpected moves**.
+
+**Xuetong Yuan**. 2022. Talk to be given at SuB 27, Charles University, Czech.
+
 **Establishing discourse relations: two contrastive markers in Mandarin**.
 
 **Xuetong Yuan**. 2022. Poster at GLOW 45, Queen Mary University of London.
@@ -31,6 +35,10 @@ Xuetong Yuan. 2020. In Proceedings of Sinn und Bedeutung 24.
 **Additive Prejecent and/or Additive Alternatives: A Principle and a Parameter in Mandarin and Japanese**.
 
 Yusuke Yagi and **Xuetong Yuan**. 2022. Poster at GLOW 45 Workshop I: Typological generalizations and semantic theory, Queen Mary University of London.
+
+**Establishing discourse relations: two contrastive markers in Mandarin**.
+
+**Xuetong Yuan**. 2022. Talk at CLS 58.
 
 **Two contrastive markers in Mandarin**.
 
@@ -55,8 +63,8 @@ Yusuke Yagi and **Xuetong Yuan**. 2022. Talk at Theoretical Linguistics at Keio 
 
 **A discourse model for Mandarin *ba*-interrogatives**. \[[slides](https://drive.google.com/open?id=1FVLrZuB1UWb8gKZsTLl51EWy0KZ9eT0W)\].
 
-Xuetong Yuan. 2019. Talk at SuB 24, Osnabrück, Germany.
+**Xuetong Yuan**. 2019. Talk at SuB 24, Osnabrück, Germany.
 
 **A discourse model for Mandarin *ba*-interrogatives**. \[[paper](https://drive.google.com/file/d/12AaoNRO0YGCrUDs9sZZL8-J7HzxQ6R5k/view?usp=sharing)\].
 
-Xuetong Yuan. 2019. Poster at GLOW in Asia XII & SICOGG XXI, Seoul, Korea.
+**Xuetong Yuan**. 2019. Poster at GLOW in Asia XII & SICOGG XXI, Seoul, Korea.
