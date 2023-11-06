@@ -5,6 +5,10 @@ featured_image: /images/avatar.jpg
 
 #### Papers
 
+**Defocus leads to syntax-prosody mismatches in right dislocated structures**.
+
+Ka-Fai Yip and Xuetong Yuan. To appear. In Proceedings of CLS 59.
+
 **Updating unexpected moves**.
 
 Xuetong Yuan. To appear. In Proceedings of Sinn und Bedeutung 27.
@@ -25,9 +29,21 @@ Xuetong Yuan. 2020. In Proceedings of Sinn und Bedeutung 24.
 
 #### Talks and posters
 
+**Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese**.
+
+Ka-Fai Yip & Xuetong Yuan. Poster to be given at NELS 54, MIT, January, 2024.
+
+**Jussive agreement with non-agreeing resumptive pronouns in Mandarin Chinese**. [[slides]](https://drive.google.com/file/d/1Wm1hHw6xy4Xt764juKBXdhJD64uzYZ0m/view?usp=drive_link)
+
+Ka-Fai Yip & Xuetong Yuan. Talk given at BCGL 16, CRISSP, October, 2023.
+
+**Defocus leads to syntax-prosody mismatches in right dislocated structures**. [[slides]](https://drive.google.com/file/d/1IW5sZdUx-TvVgbcI1us0q7tCV34zOBDe/view?usp=drive_link)
+
+Ka-Fai Yip & Xuetong Yuan. Talk given at CLS 59, University of Chicago.
+
 **Updating unexpected moves**. [[slides](https://drive.google.com/file/d/1EiSpjRwFlxNxh150-9PXUCwQx34fjhq3/view?usp=sharing)]
 
-**Xuetong Yuan**. 2022. Talk to be given at SuB 27, Charles University, Czech.
+**Xuetong Yuan**. 2022. Talk given at SuB 27, Charles University, Czech.
 
 **Establishing discourse relations: two contrastive markers in Mandarin**. [[slides](https://drive.google.com/file/d/1VdqkscXZj5rjWuJlkzz_ykWFjc03P4c2/view?usp=sharing)]
 
