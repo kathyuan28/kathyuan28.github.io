@@ -31,27 +31,11 @@ Ka-Fai Yip and **Xuetong Yuan**. To appear. In Proceedings of CLS 59.
 
 ---
 
-#### Talks and posters
+#### Peer-reviewed conference presentations
 
 **Teasing apart the prosodic effects of focus and of defocus: syntax-prosody mismatches in right dislocation**.
 
 Ka-Fai Yip & **Xuetong Yuan**. Poster to be given at LabPhon 19, Hanyang University, Seoul, South Korea, 2024.
-
-**Non-agreeing resumptive pronouns in imperatives.** [[handout]](https://drive.google.com/file/d/10JRic2sO45n7JPQIyKv3Wd1SUDXzW_SF/view?usp=sharing)
-
-**Xuetong Yuan** & Ka-Fai Yip. Talk given at Yale SRG, April, 2024.
-
-**Defocus Rephrasing: right dislocation and syntax-prosody mapping**. [[slides]](https://drive.google.com/file/d/1dHbDVtDeScS5Bq0pJhx6AoP3dMgBuUkU/view?usp=sharing)
-
-Ka-Fai Yip & **Xuetong Yuan**. Stony Brook University Linguistics’ Brown Bag talk series, April, 2024.
-
-**Conditionality without if : Mandarin conditionals and jiu**. [[handout]](https://drive.google.com/file/d/1pOrOwr1SqifV0XKJNh74vpMaxsBlaPm3/view?usp=sharing)
-
-**Xuetong Yuan**. SURGE reading group at Rutgers University, March, 2024.
-
-**Non-agreeing resumptive pronouns in imperatives**. [[handout]](https://drive.google.com/file/d/1-GY03qfp5y7FAzXQhYu99MjOwt4m50nl/view?usp=sharing)
-
-**Xuetong Yuan** & Ka-Fai Yip. Talk given at CUHK-UChicago Forum on Comparative Linguistics. CUHK, Hong Kong, March, 2024.
 
 **Right dislocation, defocus, and variations in syntax- prosody mapping**. [[slides]](https://drive.google.com/file/d/1jI_p-ISSFVlGNH2RzKlTI08XxX68BOPK/view?usp=sharing)
 
@@ -113,3 +97,21 @@ Yusuke Yagi and **Xuetong Yuan**. 2022. Talk at Theoretical Linguistics at Keio 
 **A discourse model for Mandarin *ba*-interrogatives**.
 
 **Xuetong Yuan**. 2019. Poster at GLOW in Asia XII & SICOGG XXI, Seoul, Korea.
+
+#### Non-referred/invited talks
+
+**Non-agreeing resumptive pronouns in imperatives.** [[handout]](https://drive.google.com/file/d/10JRic2sO45n7JPQIyKv3Wd1SUDXzW_SF/view?usp=sharing)
+
+**Xuetong Yuan** & Ka-Fai Yip. Talk given at Yale SRG, April, 2024.
+
+**Defocus Rephrasing: right dislocation and syntax-prosody mapping**. [[slides]](https://drive.google.com/file/d/1dHbDVtDeScS5Bq0pJhx6AoP3dMgBuUkU/view?usp=sharing)
+
+Ka-Fai Yip & **Xuetong Yuan**. Stony Brook University Linguistics’ Brown Bag talk series, April, 2024.
+
+**Conditionality without if : Mandarin conditionals and jiu**. [[handout]](https://drive.google.com/file/d/1pOrOwr1SqifV0XKJNh74vpMaxsBlaPm3/view?usp=sharing)
+
+**Xuetong Yuan**. SURGE reading group at Rutgers University, March, 2024.
+
+**Non-agreeing resumptive pronouns in imperatives**. [[handout]](https://drive.google.com/file/d/1-GY03qfp5y7FAzXQhYu99MjOwt4m50nl/view?usp=sharing)
+
+**Xuetong Yuan** & Ka-Fai Yip. Talk given at CUHK-UChicago Forum on Comparative Linguistics. CUHK, Hong Kong, March, 2024.
